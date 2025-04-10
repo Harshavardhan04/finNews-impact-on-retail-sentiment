@@ -79,9 +79,8 @@ This project leverages a series of experiments to extract, process, and model fi
 ### File
 
 - **exp3.ipynb**  
-  This notebook implements an extensive machine learning pipeline on a financial dataset that combines:
+  This notebook implements an extensive machine learning pipeline on a financial dataset that combines as input:
   - Sentiment measures from both news and Reddit WallStreetBets comments.
-  - Options trading spike data.
   - Derived momentum indicators.
   
   It employs a variety of modeling techniques including:
@@ -94,7 +93,7 @@ This project leverages a series of experiments to extract, process, and model fi
   - Fetches and merges trading data from Yahoo Finance.
   - Trains sector-specific models based on a ticker-to-sector mapping.
   
-  Together, these methods provide a comprehensive framework for assessing and predicting market behaviors based on sentiment-derived insights.
+  Together, these methods provide a comprehensive framework for assessing and predicting retail investor sentiment based on financial-news-sentiment-derived insights.
 
 ---
 
