@@ -1,6 +1,6 @@
 
 
-This project leverages a series of experiments to extract, process, and model financial sentiment data from various textual and market data sources. The goal is to derive insights from both news articles and Reddit WallStreetBets (WSB) comments, and use these signals to better understand the impact financial news has on retail investor behaviour. Please note that some code files have not been included as they involve mentions and processing of DWS internal data. 
+This project leverages a series of experiments to extract, process, and model financial sentiment data from various textual and market data sources. The goal is to derive insights from both news articles and Reddit WallStreetBets (WSB) comments, and use these signals to better understand the impact financial news has on retail investor behaviour. Please note that some code files have not been included as they involve mentions and processing of DWS internal data. Moreover, certain code files have also not been included as I believe they possess commercialisation potential subject to certain enhancements; however, the code files present should provide a good overview of the general analysis workflow. 
 
 ---
 
